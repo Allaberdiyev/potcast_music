@@ -1,7 +1,6 @@
-# podcast
+![alt text](image.png)
 
-A new Flutter project.
 
-## Getting Started
+![alt text](image-1.png)
 
-https://github.com/ibragimov05/podcast-app-ui/assets/147605613/bfb9792d-9aec-468b-9231-ee80f46ed61a
+![alt text](image-2.png)
